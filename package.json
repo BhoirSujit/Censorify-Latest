@@ -6,7 +6,7 @@
     "main": "censortext",
     "repository": {
         "type" : "git",
-        "url": "https://github.com/BhoirSujit/Censorify"
+        "url": "https://github.com/BhoirSujit/Censorify-Latest"
     },
     "keywords": ["censor", "word", "bad word"],
     "dependencies": {},
